@@ -1,5 +1,7 @@
 # wechat-topic-selector-local
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) ![Version](https://img.shields.io/badge/version-v0.1.0-blue.svg)
+
 一个本地净化版的微信公众号选题助手，基于当前可用热榜源自动生成适合公众号运营的选题建议。
 
 默认定位：
